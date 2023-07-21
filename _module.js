@@ -8540,7 +8540,7 @@ function create_fragment$6(ctx) {
 	component_0 = new Component({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "jb.com",
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
@@ -8552,7 +8552,7 @@ function create_fragment$6(ctx) {
 	component_1 = new Component$2({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "jb.com",
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
@@ -8582,7 +8582,7 @@ function create_fragment$6(ctx) {
 	component_2 = new Component$3({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "jb.com",
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
@@ -8616,7 +8616,7 @@ function create_fragment$6(ctx) {
 	component_3 = new Component$4({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "jb.com",
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
@@ -8699,7 +8699,7 @@ function create_fragment$6(ctx) {
 	component_4 = new Component$5({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "jb.com",
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
@@ -8711,7 +8711,7 @@ function create_fragment$6(ctx) {
 					{
 						"icon": "mdi:twitter",
 						"link": {
-							"url": "https://twitter.com",
+							"url": "https://twitter.com/nihiven",
 							"label": "Twitter",
 							"active": false
 						}
@@ -8719,7 +8719,7 @@ function create_fragment$6(ctx) {
 					{
 						"icon": "mdi:github",
 						"link": {
-							"url": "https://github.com",
+							"url": "https://github.com/nihiven",
 							"label": "Github",
 							"active": false
 						}
@@ -8731,7 +8731,7 @@ function create_fragment$6(ctx) {
 	component_5 = new Component$6({
 			props: {
 				favicon: {
-					"alt": "",
+					"alt": "jb.com",
 					"url": "https://github.com/primocms/primo/blob/master/static/primologo.png?raw=true"
 				},
 				image: { "alt": "", "url": "" },
